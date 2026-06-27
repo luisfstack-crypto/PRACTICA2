@@ -1,0 +1,30 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.tmp
+*.log
+
+# Compilados
+bin/
+obj/
+Debug/
+Release/
+
+# Archivos temporales
+*.bak
+*.cache
+*.dbmdl
+
+# Office temporales
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# SSIS temporales
+*.dtproj.user
+*.ispac

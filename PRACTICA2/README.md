@@ -32,8 +32,8 @@ Las dimensiones del modelo son:
 PRACTICA2/
 ├── README.md
 ├── documentacion/
-│   ├── Practica_2_Modelo_Estrella_DW_Northwind.pdf
-│   ├── Practica_2_Modelo_Estrella_DW_Northwind.docx
+│   ├── PRACTICA2.pdf
+│   ├── PRACTICA2.docx
 │   └── README_documentacion.md
 └── scripts/
     ├── 01_crear_dw_northwind.sql
